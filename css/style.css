@@ -1,0 +1,11 @@
+@font-face {
+    font-family: amin;
+    src: url(../Fonts/SH\ Blabeloo.ttf);
+}
+
+body, header .navbar-brand {
+    font-family: amin;
+}
+i {
+    font-size: 2rem;
+}
