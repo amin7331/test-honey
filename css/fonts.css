@@ -1,0 +1,24 @@
+@font-face {
+    font-family: blabeloo;
+    src: url("../Fonts/blabeloo/SH Blabeloo.ttf");
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url("../fonts/Roboto/Roboto-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Btitr";
+    src: url("../fonts/B-Titr/B Titr Bold_0.ttf");
+}
+
+@font-face {
+    font-family: "Blotus";
+    src: url("../fonts/B-Lotus/B Lotus_0.ttf");
+}
+
+@font-face {
+    font-family: "Iranian";
+    src: url("../fonts/A-Iranian-Sans/Iranian Sans.ttf");
+}
