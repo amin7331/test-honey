@@ -4,7 +4,12 @@ header .navbar-brand {
     font-family: blabeloo;
 }
 i {
-    font-size: 2rem;
+    font-size: 1.3rem;
+}
+
+form input:focus {
+    outline: none;
+    /* border: 2px solid gold; */
 }
 
 @import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
