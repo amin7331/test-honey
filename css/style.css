@@ -4,12 +4,7 @@ header .navbar-brand {
     font-family: blabeloo;
 }
 i {
-    font-size: 1.3rem;
-}
-
-form input:focus {
-    outline: none;
-    /* border: 2px solid gold; */
+    font-size: 1.2rem;
 }
 
 @import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
@@ -23,7 +18,13 @@ body {
 
 .nav-menu {
     background: rgba(0,0,0,0.5);
+    transition-duration: .7s;
 }
+
+.nav-menu-black {
+    background: rgba(0,0,0,1);
+}
+
 
 
 
