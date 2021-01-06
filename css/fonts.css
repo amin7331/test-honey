@@ -22,3 +22,8 @@
     font-family: "Iranian";
     src: url("../fonts/A-Iranian-Sans/Iranian Sans.ttf");
 }
+
+@font-face {
+    font-family: "beirut";
+    src: url("../fonts/Far_Beirut/Far_CompsBd.ttf");
+}

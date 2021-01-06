@@ -1,4 +1,5 @@
 @import url(fonts.css);
+@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
 
 header .navbar-brand {
     font-family: blabeloo;
@@ -6,8 +7,6 @@ header .navbar-brand {
 i {
     font-size: 1.2rem;
 }
-
-@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
 
 body {
     /* background: linear-gradient(180deg, #ffbb00, 50%, #181714); */
@@ -25,9 +24,6 @@ body {
     background: rgba(0,0,0,1);
 }
 
-
-
-
 div > ul > li > a {
     color: whitesmoke !important;
     font: normal 500 21px Iranian;
@@ -41,6 +37,26 @@ div > ul > li > a {
     margin-bottom: 0;
     padding-bottom: 0
 }
+
+.slide-products {
+    margin: 200px auto 150px ;
+}
+
+.product {
+    border-bottom: 2px solid rgba(231, 172, 10, 0.3);
+}
+.product a {
+    display: inline-block;
+    margin-bottom: -2px;
+    border-bottom: 2px solid gold;
+    border-bottom-width: 2px;
+}
+
+.slide-products h3 a {
+    font-family: iranian;
+    font-size: 1.6rem;
+}
+
 
 small {
     font-size: calc(12px + (15 - 12) * ((100vw - 360px) / (1600 - 360))) !important
